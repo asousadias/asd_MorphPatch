@@ -1,6 +1,6 @@
 # asd_MorphPatch
 
-##(PT)
+## (PT)
 
 Este patch implementa uma forma de transformação contínua entre dois sons através de análise-resíntese. Assim, os dois sons são analisados por meio de FFT e, conforme a parametrização, os espectros resultantes são alterados, combinados e o resultado é ressintetizado por IFFT.
 
@@ -23,7 +23,7 @@ Antonio de Sousa Dias
 
 
 
-##(EN)
+## (EN)
 
 This patch implements a form of continuous transformation between two sounds by analysis-resynthesis. Thus, the two sounds are analyzed by means of FFT and, depending on the input parameter values, the resulting spectra are changed, combined and the result is resynthesized by IFFT.
 
@@ -51,4 +51,5 @@ mailto:a.sousadias@belasartes.ulisboa.pt
 
 www.sousadias.com
 
+## Disclaimer:
 These patches are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
