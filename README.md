@@ -36,7 +36,7 @@ Although there are already multiple implementations of these techniques, the int
 
 The main points are as follows:
 
-1-Yhe interest in obtaining sounds exploring the region of the "in-between", the territory between two sounds, a possibility of electronic music already evidenced by Herbert Eimert and underlined later by Jean-Claude Risset.
+1-The interest in obtaining sounds exploring the region of the "in-between", the territory between two sounds, a possibility of electronic music already evidenced by Herbert Eimert and underlined later by Jean-Claude Risset.
 
 2-The ability to handle independently the amplitudes and phases of the resulting sound.
 
