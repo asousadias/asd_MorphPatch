@@ -2,9 +2,10 @@
 
 ## (PT)
 
-Este patch implementa uma forma de transformação contínua entre dois sons através de análise-resíntese. Assim, os dois sons são analisados por meio de FFT e, conforme a parametrização, os espectros resultantes são alterados, combinados e o resultado é ressintetizado por IFFT.
+Este patch programado em Max/MSP implementa uma forma de transformação contínua entre dois sons através de análise-resíntese. Assim, os dois sons são analisados por meio de FFT e, conforme a parametrização, os espectros resultantes são alterados, combinados e o resultado é ressintetizado por IFFT.
 
 O patch responsável por esta operação - _\_asdGen_morpher_v4.maxpat_  - deve ser utilizado integrado num objecto _bpatcher_. Para experimentação, use o patch _\_asdGen_morpher_v4.maxhelp_.
+
 
 
 Embora já existam várias implementações destas técnicas, o interesse deste patch reside nos pressupostos da sua implementação.
@@ -28,9 +29,11 @@ Antonio de Sousa Dias
 
 ## (EN)
 
-This patch implements a form of continuous transformation between two sounds by analysis-resynthesis. Thus, the two sounds are analyzed by means of FFT and, depending on the input parameter values, the resulting spectra are changed, combined and the result is resynthesized by IFFT.
+This patch programmed in Max/MSP implements a form of continuous transformation between two sounds by analysis-resynthesis. Thus, the two sounds are analyzed by means of FFT and, depending on the input parameter values, the resulting spectra are changed, combined and the result is resynthesized by IFFT.
 
 The patch responsible for this operation - _\_asdGen_morpher_v4.maxpat_ - should be used embedded in a _bpatcher_ object. For experimentation, try using the patch _\_asdGen_morpher_v4.maxhelp_.
+
+
 
 Although there are already multiple implementations of these techniques, the interest of this patch lies in the assumptions of its implementation.
 
