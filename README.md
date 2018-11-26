@@ -1,4 +1,5 @@
 # asd_MorphPatch
+https://github.com/asousadias/asd_MorphPatch/releases/tag/v0.1.2 is the latest version
 
 ## (PT)
 
