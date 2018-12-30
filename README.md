@@ -15,8 +15,8 @@ Os pontos principais são os seguintes:<br/>
 - O interesse na obtenção de sons explorando a região do "entre", o território entre dois sons, possibilidade da música electrónica já evidenciada por Herbert Eimert e sublinhada por Jean-Claude Risset.<br/>
 - A possibilidade de manipular de forma independente o posicionamento das amplitudes e das fases do som resultante.<br/>
 - O pressuposto que o caminho de A para B pode ser realizado de duas formas distintas, configurando não uma transformação unidimensional, mas sim bidimensional:<br/>
--- o caminho do hermafrodita onde, a meio caminho, todas as características/componentes dos dois sons existem simultaneamente;<br/>
--- o caminho do anjo onde, a meio caminho, apenas coexistem as características comuns sendo as restantes muito atenuadas ou mesmo inexistentes.<br/>
+  - o caminho do hermafrodita onde, a meio caminho, todas as características/componentes dos dois sons existem simultaneamente;<br/>
+  - o caminho do anjo onde, a meio caminho, apenas coexistem as características comuns sendo as restantes muito atenuadas ou mesmo inexistentes.<br/>
 Divirta-se<br/>
 
 ## (EN)
@@ -27,8 +27,8 @@ The main points are as follows:<br/>
 - The interest in obtaining sounds exploring the region of the "in-between", the territory between two sounds, a possibility of electronic music already evidenced by Herbert Eimert and underlined later by Jean-Claude Risset.<br/>
 - The ability to handle independently the amplitudes and phases of the resulting sound.<br/>
 - The assumption that the path from A to B can be done in two different ways, resulting in a surface of transformation:<br/>
--- The Hermaphrodite path where, halfway, all features/components of the two sounds exist simultaneously.<br/>
--- The Angel path where, halfway, only coexist the common features being the remaining non-existent or at least very attenuated.<br/>
+  - The Hermaphrodite path where, halfway, all features/components of the two sounds exist simultaneously.<br/>
+  - The Angel path where, halfway, only coexist the common features being the remaining non-existent or at least very attenuated.<br/>
 Enjoy<br/>
 
 ## Disclaimer:
